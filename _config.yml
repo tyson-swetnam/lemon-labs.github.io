@@ -1,0 +1,4 @@
+remote_theme: mmistakes/minimal-mistakes
+title: Lemon Labs
+plugins:
+  - jekyll-include-cache
