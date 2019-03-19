@@ -1,14 +1,13 @@
 ---
-title: Lemon Labs
-layout: splash
+title:   Lemon Labs
+excerpt: Data Science Pathways for Building a Vibrant TRIPODS Commons at Scale
+layout:  splash
 classes:
   - landing
-excerpt: "SCROLL DOWN TO SIGN UP AND FOR MORE INFORMATION"
 header:
-  image: /lemons.jpg
-  caption:   Caption
-  cta_label: Survey Link
-  cta_url:   "https://goo.gl/forms/aS3m9uYfoZJDcvN53"
+  overlay_image: /lemons.jpg
+  cta_label:     Survey
+  cta_url:       https://goo.gl/forms/aS3m9uYfoZJDcvN53
 ---
 
 Dates: Monday through Thursday, May 13-16, 2019
