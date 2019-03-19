@@ -13,7 +13,7 @@ header:
 
 Dates: Monday through Thursday, May 13-16, 2019
 
-Location: Biosphere 2, Tucson, AZ
+Location: [Biosphere 2](http://biosphere2.org), Tucson, AZ
 
 ### Agenda
 
