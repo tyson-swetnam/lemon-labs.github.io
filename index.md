@@ -30,3 +30,7 @@ Time  | Monday May 13                                      | Tuesday May 14     
 17:00 | have 2 or 3 focus areas for demo and disuccsion    | have 2 or 3 focus areas for demo and disuccsion |                                                                 |
 18:00 | role of physics based models/techniques in ML age  | privacy/security                                |                                                                 |
 19:00 | End of the day pitch                               | End of the day pitch                            | End of the day pitch                                            |
+
+[![NSF](/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
+[![NIMBioS](/nimbios.png)](http://www.nimbios.org/)
+[![U. of Arizona](/ua.jpg)](https://www.arizona.edu/)
