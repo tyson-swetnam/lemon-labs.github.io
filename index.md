@@ -33,4 +33,4 @@ Time  | Monday May 13                                      | Tuesday May 14     
 
 [![NSF](/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
 [![NIMBioS](/nimbios.png)](http://www.nimbios.org/)
-[![U. of Arizona](/ua.jpg)](https://www.arizona.edu/)
+[![U. of Arizona](/ua.png)](https://www.arizona.edu/)
