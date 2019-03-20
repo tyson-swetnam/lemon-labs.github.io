@@ -6,7 +6,7 @@ classes:
   - landing
 header:
   overlay_image: /lemons.jpg
-  cta_label:     Survey
+  cta_label:     Apply
   cta_url:       https://goo.gl/forms/aS3m9uYfoZJDcvN53
 ---
 
