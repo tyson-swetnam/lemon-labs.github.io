@@ -6,8 +6,9 @@ classes:
   - landing
 header:
   overlay_image: /lemons.jpg
-  cta_label:     Apply
-  cta_url:       https://goo.gl/forms/aS3m9uYfoZJDcvN53
+  actions:
+    - label: Apply
+      url: https://goo.gl/forms/aS3m9uYfoZJDcvN53
 ---
 
 ### Why:
@@ -77,12 +78,12 @@ Coming Soon
 
 ### Organizers:
 
-Nirav Merchant (Univ. of Arizona)\
-Mona Papes (Univ. of Tennessee, Knoxville)\
-Stephen Kobourov (Univ. of Arizona)\
-Faryad Sahneh (Univ. of Arizona)\
-Ramona Walls (Univ. of Arizona)\
-Tyson Swetnam (Univ. of Arizona)\
+Nirav Merchant (Univ. of Arizona)<br/>
+Mona Papes (Univ. of Tennessee, Knoxville)<br/>
+Stephen Kobourov (Univ. of Arizona)<br/>
+Faryad Sahneh (Univ. of Arizona)<br/>
+Ramona Walls (Univ. of Arizona)<br/>
+Tyson Swetnam (Univ. of Arizona)<br/>
 Chi-kwan Chan (Univ. of Arizona)
 
 ### Agenda
