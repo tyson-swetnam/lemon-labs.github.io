@@ -7,7 +7,7 @@ layout:  splash
 classes:
   - landing
 header:
-  overlay_image: /lemons.jpg
+  overlay_image: /images/lemons.jpg
   actions:
     - label: Apply
       url: https://goo.gl/forms/aS3m9uYfoZJDcvN53
@@ -30,6 +30,6 @@ Time  | Monday May 13                                      | Tuesday May 14     
 18:00 | role of physics based models/techniques in ML age  | privacy/security                                |                                                                 |
 19:00 | End of the day pitch                               | End of the day pitch                            | End of the day pitch                                            |
 
-[![NSF](/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
-[![NIMBioS](/nimbios.png)](http://www.nimbios.org/)
-[![U. of Arizona](/ua.png)](https://www.arizona.edu/)
+[![NSF](/images/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
+[![NIMBioS](/images/nimbios.png)](http://www.nimbios.org/)
+[![U. of Arizona](/images/ua.png)](https://www.arizona.edu/)
