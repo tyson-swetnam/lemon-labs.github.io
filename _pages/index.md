@@ -74,10 +74,6 @@ someone who'd enjoy contributing and learning from this collective
 effort, please share your suggestions through
 [faryad@email.arizona.edu](mailto:faryad@email.arizona.edu).
 
-### Travel:
-
-Coming Soon
-
 ### Organizers:
 
 Nirav Merchant (Univ. of Arizona)<br/>

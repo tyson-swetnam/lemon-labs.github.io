@@ -2,3 +2,5 @@
 main:
   - title: "Agenda"
     url: /agenda/
+  - title: "Travel"
+    url: /travel/
