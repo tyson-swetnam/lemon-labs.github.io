@@ -91,6 +91,20 @@ someone who'd enjoy contributing and learning from this collective
 effort, please share your suggestions through
 [faryad@email.arizona.edu](mailto:faryad@email.arizona.edu).
 
+### Travel:
+
+Coming Soon
+
+### Organizers:
+
+Nirav Merchant (Univ. of Arizona)<br/>
+Mona Papes (Univ. of Tennessee, Knoxville)<br/>
+Stephen Kobourov (Univ. of Arizona)<br/>
+Faryad Sahneh (Univ. of Arizona)<br/>
+Ramona Walls (Univ. of Arizona)<br/>
+Tyson Swetnam (Univ. of Arizona)<br/>
+Chi-kwan Chan (Univ. of Arizona)
+
 [![NSF](/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
 [![NIMBioS](/nimbios.png)](http://www.nimbios.org/)
 [![U. of Arizona](/ua.png)](https://www.arizona.edu/)
