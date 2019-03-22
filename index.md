@@ -77,8 +77,9 @@ inviting a maximum of 25-30 participants for the Lemon Lab.
 - Learn how to establish a Commons for sharing products from your
   research projects, teams and TRIPODS center.
 - Contribute to writing a best practices document inspired by popular
-  "10 simple rules" PLoS Collection, i.e., "10 Simple Rules for
-  Productive Data Science Collaborations".
+  ["10 simple rules" PLoS
+  Collection](https://collections.plos.org/ten-simple-rules), i.e.,
+  "10 Simple Rules for Productive Data Science Collaborations".
 - Enjoy the tranquil, historic environment of Biosphere2 as the
   events' backdrop, with a behind-the-scenes tour by one of its
   scientists.
@@ -97,12 +98,12 @@ Coming Soon
 
 ### Organizers:
 
-Nirav Merchant (Univ. of Arizona)<br/>
-Mona Papes (Univ. of Tennessee, Knoxville)<br/>
-Stephen Kobourov (Univ. of Arizona)<br/>
-Faryad Sahneh (Univ. of Arizona)<br/>
-Ramona Walls (Univ. of Arizona)<br/>
-Tyson Swetnam (Univ. of Arizona)<br/>
+Nirav Merchant (Univ. of Arizona)\
+Mona Papes (Univ. of Tennessee, Knoxville)\
+Stephen Kobourov (Univ. of Arizona)\
+Faryad Sahneh (Univ. of Arizona)\
+Ramona Walls (Univ. of Arizona)\
+Tyson Swetnam (Univ. of Arizona)\
 Chi-kwan Chan (Univ. of Arizona)
 
 [![NSF](/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
