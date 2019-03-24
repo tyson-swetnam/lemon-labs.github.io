@@ -1,7 +1,7 @@
 ---
 permalink: /
 
-title:
+title: ""
 layout: splash
 classes:
   - landing

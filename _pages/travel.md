@@ -1,12 +1,12 @@
 ---
 permalink: /travel/
 
-title:
+title: ""
 layout: splash
 classes:
   - landing
 header:
-  overlay_image: /images/lemons-short.jpg
+  overlay_image: /images/lemons.jpg
   actions:
     - label: Apply
       url: https://goo.gl/forms/aS3m9uYfoZJDcvN53
