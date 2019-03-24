@@ -26,7 +26,7 @@ Time  | Monday May 13                                      | Tuesday May 14     
 14:00 | Tools of trade for sketching ideas                 | Research to Production journey                  |                                                                 |
 15:00 | [ANTARES](https://antares.noao.edu/) (case study)  | [PDB](https://www.rcsb.org/)  (case study)      |                                                                 |
 16:00 | Demos and discussions                              | Demos and discussions                           | Demos and discussions                                           |
-17:00 | have 2 or 3 focus areas for demo and disuccsion    | have 2 or 3 focus areas for demo and disuccsion |                                                                 |
+17:00 | have 2 or 3 focus areas for demo and discussion    | have 2 or 3 focus areas for demo and discussion |                                                                 |
 18:00 | role of physics based models/techniques in ML age  | privacy/security                                |                                                                 |
 19:00 | End of the day pitches                               | End of the day pitches                            | End of the day pitch                                            |
 
