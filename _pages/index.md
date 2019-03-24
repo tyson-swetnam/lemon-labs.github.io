@@ -1,9 +1,8 @@
 ---
 permalink: /
 
-title:   Lemon Labs
-excerpt: Data Science Pathways for Building a Vibrant TRIPODS Commons at Scale
-layout:  splash
+title:
+layout: splash
 classes:
   - landing
 header:
