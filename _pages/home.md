@@ -1,7 +1,7 @@
 ---
 permalink: /
 
-title: ""
+title:  "Lemon Labs"
 layout: splash
 classes:
   - landing

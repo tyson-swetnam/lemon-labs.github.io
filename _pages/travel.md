@@ -1,7 +1,7 @@
 ---
 permalink: /travel/
 
-title: ""
+title:  "Lemon Labs: Travel"
 layout: splash
 classes:
   - landing
@@ -12,7 +12,7 @@ header:
       url: https://goo.gl/forms/aS3m9uYfoZJDcvN53
 ---
 
-### Travel:
+### Travel
 
 Coming Soon
 
