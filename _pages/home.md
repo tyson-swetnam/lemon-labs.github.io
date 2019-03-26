@@ -37,6 +37,9 @@ productivity and outcomes.  At the subsequent Lemonade Lab (Fall
 during the Lemon Lab workshop in a codefest/hackathon-style event —
 turning "lemons" into thirst-quenching "lemonade."
 
+More details of the workshops are available in the [NSF proposal
+here](/documents/TRIPODS-X-MainProposal.pdf).
+
 ### Who, When & Where:
 
 May 13-16, 2019, held at [Biosphere 2](http://biosphere2.org) (north
