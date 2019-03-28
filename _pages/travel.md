@@ -29,8 +29,9 @@ below by NSF and/or University of Arizona.
 
 ### What we need from you ASAP:
 
-- Please complete and return the UA Visitor Information Form
-  (attached) to <Brooke@math.arizona.edu>.
+- Please complete and return the [UA Visitor Information
+  Form](/documents/Fillable_Visitor_Reim_Form.pdf) to
+  <Brooke@math.arizona.edu>.
 
 ### Air Travel:
 
