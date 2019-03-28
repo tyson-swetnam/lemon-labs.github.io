@@ -86,7 +86,6 @@ below by NSF and/or University of Arizona.
   you provide on the Visitor Information Form after you submit all
   necessary reimbursement documentation.  The University of Arizona
   cannot make partial reimbursements.
-
 - If you submit for reimbursement more than 90 days after the event,
   the UA will subtract applicable taxes, per IRS guidelines.
 
