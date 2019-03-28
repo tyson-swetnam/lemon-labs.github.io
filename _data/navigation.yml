@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Agenda"
-    url: /agenda/
   - title: "Travel"
     url: /travel/
+  - title: "Agenda"
+    url: /agenda/
