@@ -7,9 +7,6 @@ classes:
   - landing
 header:
   overlay_image: /images/lemons.jpg
-  actions:
-    - label: Apply
-      url: https://goo.gl/forms/aS3m9uYfoZJDcvN53
 ---
 
 For out-of-state participants, please arrange ASAP your air travel to
