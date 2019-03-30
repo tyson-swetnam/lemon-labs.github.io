@@ -1,7 +1,7 @@
 ---
 permalink: /agenda/
 
-title:  "Lemon Labs: Agenda"
+title:  "Lemon Labs: Tentative Agenda"
 layout: splash
 classes:
   - landing
