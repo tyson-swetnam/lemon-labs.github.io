@@ -81,7 +81,8 @@ Stephen Kobourov (Univ. of Arizona)<br/>
 Faryad Sahneh (Univ. of Arizona)<br/>
 Ramona Walls (Univ. of Arizona)<br/>
 Tyson Swetnam (Univ. of Arizona)<br/>
-Chi-kwan Chan (Univ. of Arizona)
+Chi-kwan Chan (Univ. of Arizona)<br/>
+David LeBauer (Univ. of Arizona)
 
 [![NSF](/images/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
 [![NIMBioS](/images/nimbios.png)](http://www.nimbios.org/)
