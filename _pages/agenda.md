@@ -11,8 +11,7 @@ header:
 
 ### Agenda
 ### Day 1 (Monday May 13 2019) | Focus: PEOPLE & COLLABORATION
-## Time | Activity
-
+### Time | Activity
 7:30-9:00 am | Breakfast served
 9:00-9:20 am | Orientation and Introduction;
 9:20-9:35 am | Facilitator activity 1
