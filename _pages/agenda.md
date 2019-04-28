@@ -34,10 +34,10 @@ header:
 4:30-5:00 pm | End of the Day Summary
 6:30-8:00 pm | Dinner
 8:00-10:00 pm | Star gazing party (Tucson Stargazing Adventures |  Service Road behind casitas)
- | 
- | 
+
+
 ### Day 2 (Tuesday May 15 2019) | Focus: TECHNOLOGY-TOOLS-PLATFORMS
-## Time | Activity
+### Time | Activity
 7:30-9:00 am | Breakfast served
 9:00-9:15 am | Facilitator activity 1
 9:15-9:35 am | Day 1 recap
@@ -60,10 +60,10 @@ header:
 4:00-4:30 pm | Dream Platform Attributes
 4:30-5:00 pm | Summarize what we have learned
 6:30-8:00 pm | Dinner
- | 
- | 
-Day 3 (Wednesday May 15 2019) | Focus: SHARING & LEARNING
-Time | Activity
+
+
+### Day 3 (Wednesday May 15 2019) | Focus: SHARING & LEARNING
+### Time | Activity
 7:30-9:00 am | Breakfast served
 9:00-9:15 am | Facilitator activity 1
 9:15-9:35 am | Recap for day 2
@@ -85,10 +85,10 @@ Time | Activity
 4:10-4:30 pm | Lemonade lab planning
 4:30-5:00 pm | End of the Day Summary
 6:30-8:00 | Group Dinner: El Charro |  7725 N Oracle Rd 85704 
- | 
- | 
+
+
 ### Day 4 (Wednesday May 16 2019) | Participants depart
-## Time | Activity
+### Time | Activity
 7:30-9:00 am | Breakfast served
 
 
