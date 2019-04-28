@@ -10,6 +10,7 @@ header:
 ---
 
 ### Agenda
+
 Day 1 (Monday May 13 2019) | Focus: PEOPLE & COLLABORATION
 Time | Activity
 7:30-9:00 am | Breakfast served
@@ -82,11 +83,12 @@ Time | Activity
 3:50-4:10 pm | Assembling 10 simple rules
 4:10-4:30 pm | Lemonade lab planning
 4:30-5:00 pm | End of the Day Summary
-6:30-8:00 | Group Dinner: El Charro |  7725 N Oracle Rd 85704 
+6:30-8:00 pm | Group Dinner: El Charro |  7725 N Oracle Rd 85704 
  | 
 Day 4 (Wednesday May 16 2019) | Participants depart
 Time | Activity
 7:30-9:00 am | Breakfast served
+
 
 
 [![NSF](/images/nsf.png)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1839307&HistoricalAwards=false)
