@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "Participants"
+    url: /participants/
   - title: "Travel"
     url: /travel/
   - title: "Agenda"
