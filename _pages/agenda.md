@@ -38,7 +38,7 @@ Time                | Activity
  6:30 pm -  8:00 pm | Dinner
  8:00 pm - 10:00 pm | Star gazing party (Tucson Stargazing Adventures, Service Road behind casitas)
 
-### Day 2 (Tuesday May 15 2019)
+### Day 2 (Tuesday May 14 2019)
 
 **Focus:** TECHNOLOGY-TOOLS-PLATFORMS
 
