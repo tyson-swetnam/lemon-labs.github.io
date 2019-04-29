@@ -9,7 +9,9 @@ header:
   overlay_image: /images/lemons.jpg
 ---
 
-### Day 1 (Monday May 13 2019) **Focus: PEOPLE & COLLABORATION**
+### Day 1 (Monday May 13 2019)
+
+**Focus:** PEOPLE & COLLABORATION
 
 Time                | Activity
 ------------------- | -------------------
@@ -36,7 +38,9 @@ Time                | Activity
  6:30 pm -  8:00 pm | Dinner
  8:00 pm - 10:00 pm | Star gazing party (Tucson Stargazing Adventures, Service Road behind casitas)
 
-### Day 2 (Tuesday May 15 2019) **Focus: TECHNOLOGY-TOOLS-PLATFORMS**
+### Day 2 (Tuesday May 15 2019)
+
+**Focus:** TECHNOLOGY-TOOLS-PLATFORMS
 
 Time                | Activity
 ------------------- | -------------------
@@ -63,7 +67,9 @@ Time                | Activity
  4:30 pm -  5:00 pm | Summarize what we have learned
  6:30 pm -  8:00 pm | Dinner
 
-### Day 3 (Wednesday May 15 2019) **Focus: SHARING & LEARNING**
+### Day 3 (Wednesday May 15 2019)
+
+**Focus:** SHARING & LEARNING
 
 Time                | Activity
 ------------------- | -------------------
@@ -89,7 +95,9 @@ Time                | Activity
  4:30 pm -  5:00 pm | End of the Day Summary
  6:30 pm -  8:00 pm | Group Dinner (El Charro, 7725 N Oracle Rd, AZ 85704)
 
-### Day 4 (Wednesday May 16 2019) **Participants depart**
+### Day 4 (Wednesday May 16 2019)
+
+**Participants depart**
 
 Time                | Activity
 ------------------- | -------------------
