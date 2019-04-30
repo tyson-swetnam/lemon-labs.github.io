@@ -18,121 +18,121 @@ header:
     </tr>
     <tr class="active">
       <td colspan="2">Andrew is the sort of person that has trouble writing a biosketch. An alum of CyVerse, he has been part of cyberinfrastructure & interdisciplinary software projects (both in the definition and delivery of solutions). He enjoys being at the intersection of people, technology, and challenges. He recent efforts are in coaching software professionals in mindfulness meditation.</td>
-      <td><b>Andy Lenards</b>, Software Developer; CyVerse alum</td>
+      <td><img src="/images/Lenards.jpg"> <b>Andy Lenards</b>, Software Developer; CyVerse alum</td>
     </tr>
     <tr class="active">
-      <td><b>Brian Nord</b>, Associate Scientist</td>
+      <td><img src="/images/Nord.png"> <b>Brian Nord</b>, Associate Scientist</td>
       <td colspan="2">Brian is an Associate Scientist in Fermilab’s Machine Intelligence Group, which seeks to apply AI to modern challenges in high-energy physics. He is also a Visiting Research Assistant Professor in the Department of Astronomy and Astrophysics and a Senior Member of the <a href="http://kicp.uchicago.edu/">Kavli Institute for Cosmological Physics (KICP)</a> at the University of Chicago. He leads a team of researchers (<a href="https://deepskieslab.com/">Deep Skies</a>) who apply AI to questions in cosmology.</td>
     </tr>
     <tr class="active">
       <td colspan="2">Carol is a computer scientist with expertise in software engineering, cloud computing, and bioinformatics workflows. She has been the main architect of the BioExtract Server (<a href="http://bioextract.org">http://bioextract.org</a>), a federated database service designed to consolidate and serve data extracts from accessible, heterogeneous, biomolecular databases. It offers a central distribution point for uniformly formatted data from various data sources. Data sources may be classified as public or belonging to specific research groups. This provides collaborative groups with the ability to share distributed data without having to make that data public.</td>
-      <td><b>Carol Lushbough</b>, Asst Prof., Biomedical Engineering, Univ So Dakota</td>
+      <td><img src="/images/Lushbough.png"> <b>Carol Lushbough</b>, Asst Prof., Biomedical Engineering, Univ So Dakota</td>
     </tr>
     <tr class="active">
-      <td><b>Chi-kwan "CK" Chan</b>, Assistant Astronomer &#38; Data Science Fellow, U. of Arizona</td>
+      <td><img src="/images/Chan.png"> <b>Chi-kwan "CK" Chan</b>, Assistant Astronomer &#38; Data Science Fellow, U. of Arizona</td>
       <td colspan="2">Chi-kwan (CK) works with cutting edge technologies to advance scientific research. An avid coder and an expert in computational astrophysics and HPC, CK has developed new algorithms to solve complex physical systems, used graphics processing units to accelerate numerical simulations, designed cloud computing infrastructures to handle large data sets, and applied machine learning algorithms to speed up and automate data processing. Some of CK's active projects include capturing images of black holes and visualizing numerical simulations in virtual reality.</td>
     </tr>
     <tr class="active">
       <td colspan="2">I work on software tools to help geochronology laboratories manage and standardize their data, and better software to drive geoscience data capture and management. My toolkit includes geochemistry, petrology, tectonics, remote sensing, field geologic mapping, and geospatial software development.</td>
-      <td><b>Daven Quinn</b>, Post-doc, Structural Geologist, UWisc-Madison</td>
+      <td><img src="/images/Quinn.png"> <b>Daven Quinn</b>, Post-doc, Structural Geologist, UWisc-Madison</td>
     </tr>
     <tr class="active">
-      <td><b>David LeBauer</b>, Director, Data Science for the Agricultural Experiment Station, U. of Arizona</td>
+      <td><img src="/images/LeBauer.png"> <b>David LeBauer</b>, Director, Data Science for the Agricultural Experiment Station, U. of Arizona</td>
       <td colspan="2">My research is focused on using science to engineer more sustainable and productive crops and agricultural systems. To support this effort, I develop open software and data to integrate data and knowledge across disciplines. Key projects include the <a href="http://pecanproject.github.io/">Predictive Ecosystem Analyzer (PEcAn)</a> framework for data synthesis and forecasting with crop and ecosystem models and the <a href="https://terraref.org/">TERRA Reference phenotyping</a> database and computing pipeline.</td>
     </tr>
     <tr class="active">
       <td colspan="2">I am an Associate Professor in the Department of Human Centered Design and Engineering (<a href="http://www.hcde.washington.edu/">HCDE</a>) at the University of Washington. I direct the Data Ecologies Lab (<a href="http://dataecologi.es/">deLAB</a>).<br/>
 I am a sociologist of science and technology. I study how information technologies and technical experts are reshaping our contemporary world. My focus is often on research infrastructures, the networked sociotechnical organizations that support the activities of science by providing access to resources such as data, specimens, collaborative tools or computational cycles. These are sometimes called <a href="http://www.davidribes.com/cyberinfrastructure/">cyberinfrastructures</a>, and increasingly appear under the header of data science. I have investigated such infrastructures in various domains, including geoscience, HIV/AIDS, ecology and particle physics. I grew up in Ottawa and Madrid. I've had six parakeets and they’ve all been called Budgie.</td>
-      <td><b>David Ribes</b>, Assoc Prof, U Washington, Director-Data Ecologies Lab</td>
+      <td><img src="/images/Ribes.png"> <b>David Ribes</b>, Assoc Prof, U Washington, Director-Data Ecologies Lab</td>
     </tr>
     <tr class="active">
-      <td><b>Dunbar Birnie</b>, Prof, Ceramic Engineering, Rutgers Univ</td>
+      <td><img src="/images/Birnie.png"> <b>Dunbar Birnie</b>, Prof, Ceramic Engineering, Rutgers Univ</td>
       <td colspan="2">My work is mainly on 3D microstructure assessment aimed at electrochemical device optimization. One key aspect of Materials Science and Engineering--and of my own research interests in particular — is the interdisciplinary blend of skills that is required for ultimate success. This emphasis is well reflected in the current effort at Rutgers called the "Institute for Advanced Materials, Devices, and Nanotechnology" (or the IAMDN). This center brings together faculty from Physics, Chemistry, Electrical Engineering, Materials Science and Engineering and other related fields. We expect the synergy of our research efforts will enable us to create and develop new technologies and applications where solid material characteristics impact the final device functionality.</td>
     </tr>
     <tr class="active">
       <td colspan="2">Eric Carr is the Computational Data Engineer for NIMBioS where he helps resident and visiting researchers use computational resources and implement models and analysis. A primary objective is to ensure that all participants have the tools they need to create great science, as well as the necessary training to use them. Working in conjunction with NIMBioS's Education and Outreach team, Carr develops computational resources for local and remote research and training events, including seminars, workshops, and tutorials. Carr developed and now manages the infrastructure for virtual participation.</td>
-      <td><b>Eric Carr</b>, Computational Data Engineer, NIMBioS</td>
+      <td><img src="/images/Carr.png"> <b>Eric Carr</b>, Computational Data Engineer, NIMBioS</td>
     </tr>
     <tr class="active">
-      <td><b>Faryad Sahneh</b>, Post-doc Res. Assoc., Comp Science, UA</td>
+      <td><img src="/images/Sahneh.png"> <b>Faryad Sahneh</b>, Post-doc Res. Assoc., Comp Science, UA</td>
       <td colspan="2">Faryad’s research focuses on the intersection of complex systems, network science and control theory. His major accomplishments include developing theories for multilayer and interconnected networks, developing the Generalized Epidemic Model Framework software tool (GEMFsim) for the simulation of spreading processes, applying models and tools to risk analysis for human and animal infectious diseases. Research: Data science foundations for large-scale networks. Dimensionality reduction. High dimensional statistical inference. Mathematical and computational modeling of infectious diseases. Skills: Machine learning, network analysis, mathematical modeling, numerical optimization, statistical computations. Programming: Python, R, Matlab.</td>
     </tr>
     <tr class="active">
       <td colspan="2">My research focuses on large-scale hydrological modeling for flood forecasting, agricultural monitoring, and weather and climate forecasting. In particular, I am interested in model/data fusion, and how to use remote sensing and other types of hydrologic observations to improve hydrology models. This work largely relies on information-theoretic, machine learning, and data assimilation techniques. I am also interested in the application of emerging computational technologies for Earth Science applications.</td>
-      <td><b>Grey Nearing</b>, Asst. Prof, U Alabama</td>
+      <td><img src="/images/Nearing.png"> <b>Grey Nearing</b>, Asst. Prof, U Alabama</td>
     </tr>
     <tr class="active">
-      <td><b>Jeremy Fischer</b>, Jetstream, Indiana Univ</td>
+      <td><img src="/images/Fischer.png"> <b>Jeremy Fischer</b>, Jetstream, Indiana Univ</td>
       <td colspan="2">Working primarily on Jetstream project as the technical evangelist getting researchers and educators on the system. In this role, I'm the jack of all trades doing unix sysadmin work, cloud image maintenance, support, training, documentation, and anything else that needs to happen.</td>
     </tr>
     <tr class="active">
       <td colspan="2">Skills: Weather, numerical weather prediction, atmospheric sciences, data assimilation, WRF</td>
-      <td><b>Kevin Tyle</b>, Sr Programmer, Analyst, SUNY Albany</td>
+      <td><img src="/images/Tyle.png"> <b>Kevin Tyle</b>, Sr Programmer, Analyst, SUNY Albany</td>
     </tr>
     <tr class="active">
-      <td><b>Luis Carrasco Tornero</b>, Post-doc, NIMBioS</td>
+      <td><img src="/images/Tornero.png"> <b>Luis Carrasco Tornero</b>, Post-doc, NIMBioS</td>
       <td colspan="2">Luis Carrasco Tornero (Ph.D. Ecology & Evolutionary Biology, University of Tsukuba, Japan, 2015) is a postdoctoral fellow working on a project to study the effects of landscape diversity and structure on the distribution of species and biodiversity. The research is conducted as a part of a <a href="http://www.nimbios.org/postdocs/targeted_postdocs"Targeted Postdoctoral Fellowship in Spatial Biology</a> in the labs of <a href="http://eeb.bio.utk.edu/people/xingli-giam/">Xingli Giam</a>, <a href="http://eeb.bio.utk.edu/people/monica-papes/">Monica Papeş</a>, and <a href="http://eeb.bio.utk.edu/people/kimberly-sheldon/">Kimberly Sheldon</a>.</td>
     </tr>
     <tr class="active">
       <td colspan="2">I am a PhD student in University of Arizona’s Department of Computer Science, advised by Professor Kobus Barnard. I research machine learning applications in astronomy. Before joining Arizona, I worked as a software engineer consultant for two years, designing software systems for financial and governmental clients.</td>
-      <td><b>Marina Kiseleva</b>, PhD Student, Astronomy, U Arizona</td>
+      <td><img src="/images/Kiseleva.png"> <b>Marina Kiseleva</b>, PhD Student, Astronomy, U Arizona</td>
     </tr>
     <tr class="active">
-      <td><b>Meghan Lang</b>, Computational Physicist</td>
+      <td><img src="/images/Lang.png"> <b>Meghan Lang</b>, Computational Physicist</td>
       <td colspan="2">I am a postdoctoral research associate in the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign (UIUC). While my primary research interests center around galaxies and their connection to the large scale structure of the universe, I am also interested in making connections with other scientific domains.</td>
     </tr>
     <tr class="active">
       <td colspan="2">My research group investigates the factors that shape species’ geographic distributions at diverse spatial and temporal resolutions by combining ecological niche modeling techniques with GIS and remote sensing tools. The main drivers of my research are: (1) to understand species’ distributional patterns across broad spatial scales (2) to derive local-scale ecological models that take into account seasonality and its effects on animal distributions and (3) to integrate information from physiological ecology into geographic distribution studies. My long-term research program centers on diverse approaches to understanding effects of human system processes on natural systems, and on strengthening linkages between physiological ecology and geographic distributions of species.</td>
-      <td><b>Mona Papes</b>, Asst Prof & Spatial Analysis Lab Director, UTK</td>
+      <td><img src="/images/Papes.png"> <b>Mona Papes</b>, Asst Prof & Spatial Analysis Lab Director, UTK</td>
     </tr>
     <tr class="active">
-      <td><b>Nirav Merchant</b>, Director, Data Science (Data7) Institute, UA</td>
+      <td><img src="/images/Merchant.jpg"> <b>Nirav Merchant</b>, Director, Data Science (Data7) Institute, UA</td>
       <td colspan="2">Nirav Merchant is the Co-PI for NSF <a href="https://www.cyverse.org/">CyVerse</a> a national scale Cyberinfrastructure for life sciences and NSF <a href="https://jetstream-cloud.org/">Jetstream</a> the first user-friendly, scalable cloud environment for NSF XSEDE. He received his undergraduate degree in Industrial engineering from the University of Pune, India, and graduate degree in Systems and Industrial Engineering from the University of Arizona (1994).<br/>
 Over the last two decades his research has been directed towards developing scalable computational platforms for supporting open science and open innovation, with emphasis on improving research productivity for geographically distributed interdisciplinary teams.</td>
     </tr>
     <tr class="active">
       <td colspan="2">Peter Rose’s group at SBL built the RCSB Protein Data Bank to its current strength as a key resource in biology and drug discovery. He currently works on NIH funded Big Data to Knowledge (BD2K) projects to enable large-scale mining of 3D macromolecular structures. Prior to joining UCSD, he held research and management positions at Pfizer La Jolla, formerly Agouron Pharmaceuticals, where he was instrumental in the establishment of the structure-based drug design platform. His research interests include structural bioinformatics, structure-based drug design, 3D visualization, and application of big data technologies and machine learning in bioinformatics and biomedicine.</td>
-      <td><b>Peter Rose</b>, Director, Structural Bioinformatics Lab, San Diego Supercomputer Center</td>
+      <td><img src="/images/Rose.png"> <b>Peter Rose</b>, Director, Structural Bioinformatics Lab, San Diego Supercomputer Center</td>
     </tr>
     <tr class="active">
-      <td><b>Ramona Walls</b>, Asst Res. Prof, UA; Sr Science Analyst, CyVerse</td>
+      <td><img src="/images/Walls.png"> <b>Ramona Walls</b>, Asst Res. Prof, UA; Sr Science Analyst, CyVerse</td>
       <td colspan="2">My primary responsibilities at CyVerse involve organizing things. As such, I work on initiatives related to data management and integration, metadata use and harmonization, and incorporating ontologies into CyVerse cyberinfrastructure. Although my background (and first love) is in the ecology and evolution of plants, my work is not restricted to plant science and includes domains such as <a href="http://research.arizona.edu/space-object-behavioral-sciences">Space Object Behavioral Science</a> and the <a href="http://uneplive.unep.org/">United Nations Sustainable Development Goals</a>. I am an active member of the biodiversity standards community, including <a href="http://www.tdwg.org/">TDWG</a> (Biodiversity Information Standards), <a href="http://gensc.org/">GSC</a> (Genomics Standards Consortium), and the <a href="http://obofoundry.github.io/">OBO Foundry</a>.</td>
     </tr>
     <tr class="active">
       <td colspan="2">Interests/Specialties: Adaptive water management, socio-hydrology, water policy.</td>
-      <td><b>Richard Rushforth</b>, Asst Prof, School of Informatics, Computing, & Cyber Security, NAU</td>
+      <td><img src="/images/Rushforth.png"> <b>Richard Rushforth</b>, Asst Prof, School of Informatics, Computing, & Cyber Security, NAU</td>
     </tr>
     <tr class="active">
-      <td><b>Sampriya (Sam) Roy</b>, Doctoral student, UIUC</td>
+      <td><img src="/images/Roy.png"> <b>Sampriya (Sam) Roy</b>, Doctoral student, UIUC</td>
       <td colspan="2">My current work involves big data analysis and large scale data science applications utilizing geospatial technology. I work with different imagery types and I am currently involved with looking at time series data & analysis of natural systems coupled with system modeling and periodicity. Most of my work includes but is not limited to remote sensing applications, large scale data processing and management, API support along with network analysis and geostatistical methods.</td>
     </tr>
     <tr class="active">
       <td colspan="2">Stephen Kobourov completed B.S. degrees in Mathematics and Computer Science at Dartmouth College in 1995, and a Ph.D. in Computer Science at Johns Hopkins University in 2000. He was a Research Scientist at AT&T Research Labs, a Humboldt Fellow at the University of Tübingen in Germany, and in 2015-16 worked as a Distinguished Fulbright Chair at Charles University in Prague. His areas of expertise include data analysis and visualization, human-computer interaction, design and analysis of algorithms, and algorithm engineering.</td>
-      <td><b>Stephen Kobourov</b>, Assoc Dir, Data Science Inst, UA</td>
+      <td><img src="/images/Kobourov.png"> <b>Stephen Kobourov</b>, Assoc Dir, Data Science Inst, UA</td>
     </tr>
     <tr class="active">
-      <td><b>Thomas Matheson</b>, Astronomer, NOAO</td>
+      <td><img src="/images/Matheson.png"> <b>Thomas Matheson</b>, Astronomer, NOAO</td>
       <td colspan="2">I work on various aspects of supernovae, from studies of individual objects to cosmological uses, including the SN/GRB connection as well as low and high-redshift supernovae. One of my goals is to understand the diversity among Type Ia SNe by looking at a large collection of spectra of nearby SNe obtained by the CfA group. The study of high-redshift supernovae evolved into the <a href="http://www.ctio.noao.edu/essence/">ESSENCE</a> project, a five-year program that found ~200 Type Ia supernovae in order to measure the parameterization of the equation of state of the Universe.</td>
     </tr>
     <tr class="active">
       <td colspan="2">Titus’ Laboratory for Data Intensive Biology at UC Davis joined the <a href="http://software-carpentry.org/index.html">Software Carpentry Foundation</a> as an affiliate member. Software Carpentry is a volunteer organization whose goal is to make scientists more productive, and their work more reliable, by teaching them basic computing skills.</td>
-      <td><b>Titus Brown</b>, Assoc Prof, UC Davis Genome Center</td>
+      <td><img src="/images/Brown.png"> <b>Titus Brown</b>, Assoc Prof, UC Davis Genome Center</td>
     </tr>
     <tr class="active">
-      <td><b>Tonantzin Tarin Terrazas</b>, Postdoctoral Researcher, University of Delaware</td>
+      <td><img src="/images/Terrazas.png"> <b>Tonantzin Tarin Terrazas</b>, Postdoctoral Researcher, University of Delaware</td>
       <td colspan="2">I am a Ph.D. Student at the University of Delaware. My research interests focus on ecosystems studies, especially in the ecohydrology and ecophysiology field. I have experience evapotranspiration (ET) partitioning schemes with stable isotopes and flux measurements, to better understand how ET components influence on ecohydrological dynamics in semiarid ecosystems at the Sonoran Desert. I also have a strong interest on water use efficiency: What is the trade-off of the ecosystem productivity in terms of water loss? and What is the carbon and water budget for different ecosystems?​</td>
     </tr>
     <tr class="active">
       <td colspan="2">Tracy Teal is a bioinformatician and Executive Director of Data Carpentry. She is known for her work in open science and biomedical data science education. In 2016, Data Carpentry drafted its mission and vision statement to "build communities teaching universal data literacy." Through its network of volunteer instructors, Data Carpentry has since developed lesson plans for a variety of scientific domains, including ecology, genomics, and social science and is in the process of developing materials for astronomy, digital humanities, economics, and more.She has co-authored a number of papers establishing roadmaps to data competencies for the current and next-generation of researchers in environmental research and for researchers in general.</td>
-      <td><b>Tracy Teal</b>, Exec Director, Data Carpentry</td>
+      <td><img src="/images/Teal.png"> <b>Tracy Teal</b>, Exec Director, Data Carpentry</td>
     </tr>
     <tr class="active">
-      <td><b>Tyson Swetnam</b>, Spatial Data Infrastructure Guru, CyVerse</td>
+      <td><img src="/images/Swetnam.png"> <b>Tyson Swetnam</b>, Spatial Data Infrastructure Guru, CyVerse</td>
       <td colspan="2">My primary responsibilities at CyVerse involve the deployment of Spatial Data Infrastructure (SDI) for life science and agricultural research. I also work closely with the NSF <a href="http://criticalzone.org/national/">Critical Zone Observatory Network</a>, <a href="http://opentopography.org/">OpenTopography</a>, and <a href="https://www.xsede.org/">XSEDE</a> deploying scalable GIS applications running on CyVerse resources. My recent research areas focused on geomorphology and biogeochemical cycling. Earlier in my career I worked on ecological research with the <a href="http://ltrr.arizona.edu/">Laboratory of Tree Ring Research</a>. My post-doctoral research involved collaborations with the University of Utah, the Agricultural Research Service <a href="http://www.tucson.ars.ag.gov/swrc_site/">Southwest Watershed Research Center</a>, the <a href="https://snre.arizona.edu/facilities/arsc">Arizona Remote Sensing Center</a>, and <a href="http://cals.arizona.edu/srer/">Santa Rita Experimental Range</a>. I am a member of <a href="http://sites.agu.org/">AGU</a>, and <a href="http://fireecology.org/">AFE</a>.</td>
     </tr>
     <tr class="active">
       <td colspan="2">I am a Ph.D. student in the department of Human Centered Design and Engineering at the University of Washington. My current research is focused on infrastructure for data-intensive science. I use qualitative and ethnographic methods to investigate how research communities share and collaborate on software, and how scientific methods are expressed in code. Some of my prior work at the University of North Carolina concerned gig work and digital platforms. I have published in journals and conferences such as Computer-Supported Cooperative Work, and the iConference.</td>
-      <td><b>Will Sutherland</b>, Doctoral student, U Washington</td>
+      <td><img src="/images/Sutherland.png"> <b>Will Sutherland</b>, Doctoral student, U Washington</td>
     </tr>
   </tbody>
 </table>
