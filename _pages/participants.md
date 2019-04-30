@@ -24,6 +24,118 @@ header:
       <td><b>Brian Nord</b>, Associate Scientist</td>
       <td colspan="2">Brian is an Associate Scientist in Fermilab’s Machine Intelligence Group, which seeks to apply AI to modern challenges in high-energy physics. He is also a Visiting Research Assistant Professor in the Department of Astronomy and Astrophysics and a Senior Member of the <a href="http://kicp.uchicago.edu/">Kavli Institute for Cosmological Physics (KICP)</a> at the University of Chicago. He leads a team of researchers (<a href="https://deepskieslab.com/">Deep Skies</a>) who apply AI to questions in cosmology.</td>
     </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
+    <tr class="active">
+      <td colspan="2"></td>
+      <td><b></b>, </td>
+    </tr>
+    <tr class="active">
+      <td><b></b>, </td>
+      <td colspan="2"></td>
+    </tr>
   </tbody>
 </table>
 
