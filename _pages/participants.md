@@ -10,14 +10,12 @@ header:
 ---
 
 <table class="table">
-  <thead>
-    <tr>
-      <th>1</th>
-      <th>2</th>
-      <th>3</th>
-    </tr>
-  </thead>
   <tbody>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
     <tr class="active">
       <td colspan="2">Andrew is the sort of person that has trouble writing a biosketch. An alum of CyVerse, he has been part of cyberinfrastructure & interdisciplinary software projects (both in the definition and delivery of solutions). He enjoys being at the intersection of people, technology, and challenges. He recent efforts are in coaching software professionals in mindfulness meditation.</td>
       <td><b>Andy Lenards</b>, Software Developer; CyVerse alum</td>
