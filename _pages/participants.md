@@ -34,8 +34,9 @@ Nord is co-leader of education and public engagement at KICP, where he organizes
       <td colspan="2">Chi-kwan (CK) works with cutting edge technologies to advance scientific research. An avid coder and an expert in computational astrophysics and HPC, CK has developed new algorithms to solve complex physical systems, used graphics processing units to accelerate numerical simulations, designed cloud computing infrastructures to handle large data sets, and applied machine learning algorithms to speed up and automate data processing. Some of CK's active projects include capturing images of black holes and visualizing numerical simulations in virtual reality.</td>
     </tr>
     <tr class="active">
-      <td colspan="2">I work on software tools to help geochronology laboratories manage and standardize their data, and better software to drive geoscience data capture and management. My toolkit includes geochemistry, petrology, tectonics, remote sensing, field geologic mapping, and geospatial software development.</td>
-      <td><img src="/images/Quinn.png"><br/><b>Daven Quinn</b><br/>Post-doc, Structural Geologist, UWisc-Madison</td>
+      <td colspan="2">I am a structural geologist who studies regional geological systems on Earth and Mars, in the context of deep-time planetary history. My toolkit includes geochemistry, stratigraphy, tectonics, remote sensing, and field geologic mapping. I am also interested in tooling and infrastructure (especially software) for integrating geoscience data across scales.<br/>
+Currently, I am building software tools to help geochronology laboratories manage and standardize their data. I am also working on novel user interfaces for geoscience data capture and management. My software expertise encompasses Python, spatial databases (e.g. PostGIS/PostgreSQL) and user-interface development for web (Javascript) and mobile devices (Swift).</td>
+      <td><img src="/images/Quinn.png"><br/><b>Daven Quinn</b><br/>Postdoctoral Researcher, Structural Geologist, University of Wisconsin-Madison</td>
     </tr>
     <tr class="active">
       <td><img src="/images/LeBauer.png"><br/><b>David LeBauer</b><br/>Director, Data Science for the Agricultural Experiment Station, U. of Arizona</td>
