@@ -71,7 +71,7 @@ I am a sociologist of science and technology. I study how information technologi
     </tr>
     <tr class="active">
       <td><img src="/images/Tornero.png"><br/><b>Luis Carrasco Tornero</b><br/>Post-doc, NIMBioS</td>
-      <td colspan="2">Luis Carrasco Tornero (Ph.D. Ecology & Evolutionary Biology, University of Tsukuba, Japan, 2015) is a postdoctoral fellow working on a project to study the effects of landscape diversity and structure on the distribution of species and biodiversity. The research is conducted as a part of a <a href="http://www.nimbios.org/postdocs/targeted_postdocs"Targeted Postdoctoral Fellowship in Spatial Biology</a> in the labs of <a href="http://eeb.bio.utk.edu/people/xingli-giam/">Xingli Giam</a>, <a href="http://eeb.bio.utk.edu/people/monica-papes/">Monica Papeş</a>, and <a href="http://eeb.bio.utk.edu/people/kimberly-sheldon/">Kimberly Sheldon</a>.</td>
+      <td colspan="2">Luis Carrasco Tornero is a postdoctoral fellow at NIMBioS and the University of Tennessee. Luis uses remote sensing tools, such as optical/radar satellite or LiDAR data, in combination with machine learning techniques, to answer ecological questions. Luis' research focuses on understanding the distribution patterns of biodiversity, and he is especially interested on studying how landscape complexity influences animal species richness.</td>
     </tr>
     <tr class="active">
       <td colspan="2">I am a PhD student in University of Arizona’s Department of Computer Science, advised by Professor Kobus Barnard. I research machine learning applications in astronomy. Before joining Arizona, I worked as a software engineer consultant for two years, designing software systems for financial and governmental clients.</td>
