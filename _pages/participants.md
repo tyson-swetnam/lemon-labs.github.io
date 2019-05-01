@@ -99,7 +99,7 @@ Over the last two decades his research has been directed towards developing scal
       <td colspan="2">My primary responsibilities at CyVerse involve organizing things. As such, I work on initiatives related to data management and integration, metadata use and harmonization, and incorporating ontologies into CyVerse cyberinfrastructure. Although my background (and first love) is in the ecology and evolution of plants, my work is not restricted to plant science and includes domains such as <a href="http://research.arizona.edu/space-object-behavioral-sciences">Space Object Behavioral Science</a> and the <a href="http://uneplive.unep.org/">United Nations Sustainable Development Goals</a>. I am an active member of the biodiversity standards community, including <a href="http://www.tdwg.org/">TDWG</a> (Biodiversity Information Standards), <a href="http://gensc.org/">GSC</a> (Genomics Standards Consortium), and the <a href="http://obofoundry.github.io/">OBO Foundry</a>.</td>
     </tr>
     <tr class="active">
-      <td colspan="2">Interests/Specialties: Adaptive water management, socio-hydrology, water policy.</td>
+      <td colspan="2">Richard Rushforth is an Assistant Research Professor in the School of Informatics, Computing, and Cyber Systems at Northern Arizona University. His research focuses on big data modeling of food, energy, and water systems to further the understanding of complex, coupled natural-human systems. He is the lead research scientist for the National Water-Economy Project (NWEP) and the NSF-funded FEWSION project.</td>
       <td><img src="/images/Rushforth.png"><br/><b>Richard Rushforth</b><br/>Asst Prof, School of Informatics, Computing, & Cyber Security, NAU</td>
     </tr>
     <tr class="active">
