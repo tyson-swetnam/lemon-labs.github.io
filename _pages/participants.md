@@ -60,7 +60,7 @@ Currently, I am building software tools to help geochronology laboratories manag
     </tr>
     <tr class="active">
       <td colspan="2">My research focuses on large-scale hydrological modeling for flood forecasting, agricultural monitoring, and weather and climate forecasting. In particular, I am interested in model/data fusion, and how to use remote sensing and other types of hydrologic observations to improve hydrology models. This work largely relies on information-theoretic, machine learning, and data assimilation techniques. I am also interested in the application of emerging computational technologies for Earth Science applications.</td>
-      <td><img src="/images/Nearing.png"><br/><b>Grey Nearing</b><br/>Asst. Prof, U Alabama</td>
+      <td><img src="/images/Nearing.jpg"><br/><b>Grey Nearing</b><br/>Asst. Prof, U Alabama</td>
     </tr>
     <tr class="active">
       <td><img src="/images/Fischer.png"><br/><b>Jeremy Fischer</b><br/>Jetstream, Indiana Univ</td>
