@@ -104,7 +104,7 @@ Over the last two decades his research has been directed towards developing scal
       <td><img src="/images/Rushforth.png"><br/><b>Richard Rushforth</b><br/>Asst Prof, School of Informatics, Computing, & Cyber Security, NAU</td>
     </tr>
     <tr class="active">
-      <td><img src="/images/Roy.png"><br/><b>Sampriya (Sam) Roy</b><br/>PhD., Research Engagement at Planet</td>
+      <td><img src="/images/Roy.jpg"><br/><b>Sampriya (Sam) Roy</b><br/>PhD., Research Engagement at Planet</td>
       <td colspan="2">During his PhD his work focused on coastal degradation and urban land use and land cover changes across global deltas.Most of his interest lies in handling but not limited to remote sensing datasets and applications, large scale data processing and management, API support along with network analysis and geostatistical methods. At Planet Sam’s role and responsibility of customer and researcher engagement allows him to work closely with both roles and develop engagement and utilization strategies of users with the data. His role further specializes in developing user and developer experience, and help implement strategies for end to end access to imagery and develop analysis strategies.</td>
     </tr>
     <tr class="active">
