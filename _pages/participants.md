@@ -84,7 +84,7 @@ Currently, I am building software tools to help geochronology laboratories manag
     </tr>
     <tr class="active">
       <td><img src="/images/Merchant.jpg"><br/><b>Nirav Merchant</b><br/>Director, Data Science (Data7) Institute, UA</td>
-      <td colspan="2">Nirav Merchant is the Co-PI for NSF <a href="https://www.cyverse.org/">CyVerse</a> a national scale Cyberinfrastructure for life sciences and NSF <a href="https://jetstream-cloud.org/">Jetstream</a> the first user-friendly, scalable cloud environment for NSF XSEDE. He received his undergraduate degree in Industrial engineering from the University of Pune, India, and graduate degree in Systems and Industrial Engineering from the University of Arizona (1994).<br/>
+      <td colspan="2">Nirav Merchant is the Co-PI for NSF <a href="https://www.cyverse.org/">CyVerse</a> a national scale Cyberinfrastructure for life sciences and NSF <a href="https://jetstream-cloud.org/">Jetstream</a> the first user-friendly, scalable cloud environment for NSF XSEDE.<br/>
 Over the last two decades his research has been directed towards developing scalable computational platforms for supporting open science and open innovation, with emphasis on improving research productivity for geographically distributed interdisciplinary teams.</td>
     </tr>
     <tr class="active">
