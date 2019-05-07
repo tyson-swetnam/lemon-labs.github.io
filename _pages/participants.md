@@ -17,10 +17,6 @@ header:
       <th width="256px"></th>
     </tr>
     <tr class="active">
-      <td colspan="2">Andrew is the sort of person that has trouble writing a biosketch. An alum of CyVerse, he has been part of cyberinfrastructure & interdisciplinary software projects (both in the definition and delivery of solutions). He enjoys being at the intersection of people, technology, and challenges. He recent efforts are in coaching software professionals in mindfulness meditation.</td>
-      <td><img src="/images/Lenards.jpg"><br/><b>Andy Lenards</b><br/>Software Developer; CyVerse alum</td>
-    </tr>
-    <tr class="active">
       <td><img src="/images/Nord.png"><br/><b>Brian Nord</b><br/>Associate Scientist</td>
       <td colspan="2">Brian is an Associate Scientist in Fermilab’s Machine Intelligence Group, which seeks to apply AI to modern challenges in high-energy physics. He is also a Senior Member of the <a href="http://kicp.uchicago.edu/">Kavli Institute for Cosmological Physics (KICP)</a> at the University of Chicago. He is the co-founder and team for the <a href="http://deepskieslab.com/">Deep Skies Lab</a>, an international team of researchers who apply AI to challenges in Astrophysics and Cosmology.<br/>
 Nord is co-leader of education and public engagement at KICP, where he organizes <a href="http://cfcp.uchicago.edu/education/explorers/">Space Explorers</a>, a program that works with high school students from underrepresented groups, providing access to hands-on, state-of-the-art science experiences outside the classroom. Nord co-created ThisIsBlackLight.com, an online curriculum to teach about the Black experience in America and to mobilize allies for justice. You can find him on Twitter at @iamstarnord.</td>
