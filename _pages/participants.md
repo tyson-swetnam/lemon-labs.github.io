@@ -131,6 +131,10 @@ Over the last two decades his research has been directed towards developing scal
       <td colspan="2">I am a Ph.D. student in the department of Human Centered Design and Engineering at the University of Washington. My current research is focused on infrastructure for data-intensive science. I use qualitative and ethnographic methods to investigate how research communities share and collaborate on software, and how scientific methods are expressed in code. Some of my prior work at the University of North Carolina concerned gig work and digital platforms. I have published in journals and conferences such as Computer-Supported Cooperative Work, and the iConference.</td>
       <td><img src="/images/Sutherland.png"><br/><b>Will Sutherland</b><br/>Doctoral student, U Washington</td>
     </tr>
+    <tr class="active">
+      <td><img src="/images/Lyons.png"><br/><b>Eric Lyons</b><br/>Assistant Professor, School of Plant Sciences, BIO5 Institute</td>
+      <td colspan="2">I am an associate professor in the school of Plant Sciences at the University of Arizona. My research focuses on scalable computational systems and infrastructure to support and accelerate life science research, and the structure, evolution, and dynamics of genomes. To support this, I am a co-PI on CyVerse, a $100M NSF-funded project to provide cyberinfrastructure for life science research; my research group develops and maintains the comparative genomics platform, CoGe (http://genomevolution.org), which currently stores nearly 50,000 genomes and provides dynamic tools for analyzing, comparing, and visualizing genomic data.  I also serve on the boards of the nonprofit Phoenix Bioinformatics, LLC located in Redwood City, CA, The Plant Sciences Institute at Iowa State University, and The Boyce Thompson Institute located in Ithaca, NY.  My bachelor’s degree is in Immunology, Master’s degree in Microbial Biology, and PhD in Plant Biology, all earned at UC Berkeley.  Prior to joining the University of Arizona, I worked in biotech, pharma, and software companies around the SF Bay Area.</td>
+    </tr>
   </tbody>
 </table>
 
