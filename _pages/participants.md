@@ -16,10 +16,11 @@ header:
       <th></th>
       <th width="256px"></th>
     </tr>
-    <tr class="active">
+ <!--   <tr class="active">
       <td colspan="2">Andrew is the sort of person that has trouble writing a biosketch. An alum of CyVerse, he has been part of cyberinfrastructure & interdisciplinary software projects (both in the definition and delivery of solutions). He enjoys being at the intersection of people, technology, and challenges. He recent efforts are in coaching software professionals in mindfulness meditation.</td>
       <td><img src="/images/Lenards.jpg"><br/><b>Andy Lenards</b><br/>Software Developer; CyVerse alum</td>
     </tr>
+-->
     <tr class="active">
       <td><img src="/images/Nord.png"><br/><b>Brian Nord</b><br/>Associate Scientist</td>
       <td colspan="2">Brian is an Associate Scientist in Fermilab’s Machine Intelligence Group, which seeks to apply AI to modern challenges in high-energy physics. He is also a Senior Member of the <a href="http://kicp.uchicago.edu/">Kavli Institute for Cosmological Physics (KICP)</a> at the University of Chicago. He is the co-founder and team for the <a href="http://deepskieslab.com/">Deep Skies Lab</a>, an international team of researchers who apply AI to challenges in Astrophysics and Cosmology.<br/>
@@ -88,7 +89,7 @@ Currently, I am building software tools to help geochronology laboratories manag
     </tr>
     <tr class="active">
       <td><img src="/images/Merchant.jpg"><br/><b>Nirav Merchant</b><br/>Director, Data Science (Data7) Institute, UA</td>
-      <td colspan="2">Nirav Merchant is the Co-PI for NSF <a href="https://www.cyverse.org/">CyVerse</a> a national scale Cyberinfrastructure for life sciences and NSF <a href="https://jetstream-cloud.org/">Jetstream</a> the first user-friendly, scalable cloud environment for NSF XSEDE. He received his undergraduate degree in Industrial engineering from the University of Pune, India, and graduate degree in Systems and Industrial Engineering from the University of Arizona (1994).<br/>
+      <td colspan="2">Nirav Merchant is the Co-PI for NSF <a href="https://www.cyverse.org/">CyVerse</a> a national scale Cyberinfrastructure for life sciences and NSF <a href="https://jetstream-cloud.org/">Jetstream</a> the first user-friendly, scalable cloud environment for NSF XSEDE.<br/>
 Over the last two decades his research has been directed towards developing scalable computational platforms for supporting open science and open innovation, with emphasis on improving research productivity for geographically distributed interdisciplinary teams.</td>
     </tr>
     <tr class="active">
