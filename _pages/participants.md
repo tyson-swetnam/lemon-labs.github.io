@@ -138,7 +138,7 @@ Over the last two decades his research has been directed towards developing scal
     <tr class="active">
       <td colspan="2">I am currently a postdoctoral research associate at the BIO5 Institute at the University of Arizona. I am working with Ramona Walls and the <a href="https://futres.org/">FuTRES</a> (Functional Trait Resource for Environmental Studies) team to develop a way to search and aggregate specimen-level trait data.<br/>
 My research interests include investigating how evolutionary changes in body size affect the ecology of species at the population, species, and community levels. I am particularly interested in understanding trends and drivers of morphological or compositional change.</td>
-      <td><img src="/images/Balk.png"><br/><b>Meghan Balk, Ph.D.</b><br/>University of Arizona</td>
+      <td><img src="/images/Balk.jpg"><br/><b>Meghan Balk, Ph.D.</b><br/>University of Arizona</td>
     </tr>
   </tbody>
 </table>
