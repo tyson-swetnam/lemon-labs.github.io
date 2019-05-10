@@ -135,6 +135,11 @@ Over the last two decades his research has been directed towards developing scal
       <td><img src="/images/Lyons.png"><br/><b>Eric Lyons</b><br/>Assistant Professor, School of Plant Sciences, BIO5 Institute</td>
       <td colspan="2">I am an associate professor in the school of Plant Sciences at the University of Arizona. My research focuses on scalable computational systems and infrastructure to support and accelerate life science research, and the structure, evolution, and dynamics of genomes. To support this, I am a co-PI on CyVerse, a $100M NSF-funded project to provide cyberinfrastructure for life science research; my research group develops and maintains the comparative genomics platform, CoGe (http://genomevolution.org), which currently stores nearly 50,000 genomes and provides dynamic tools for analyzing, comparing, and visualizing genomic data.  I also serve on the boards of the nonprofit Phoenix Bioinformatics, LLC located in Redwood City, CA, The Plant Sciences Institute at Iowa State University, and The Boyce Thompson Institute located in Ithaca, NY.  My bachelor’s degree is in Immunology, Master’s degree in Microbial Biology, and PhD in Plant Biology, all earned at UC Berkeley.  Prior to joining the University of Arizona, I worked in biotech, pharma, and software companies around the SF Bay Area.</td>
     </tr>
+    <tr class="active">
+      <td colspan="2">I am currently a postdoctoral research associate at the BIO5 Institute at the University of Arizona. I am working with Ramona Walls and the <a href="https://futres.org/">FuTRES</a> (Functional Trait Resource for Environmental Studies) team to develop a way to search and aggregate specimen-level trait data.<br/>
+My research interests include investigating how evolutionary changes in body size affect the ecology of species at the population, species, and community levels. I am particularly interested in understanding trends and drivers of morphological or compositional change.</td>
+      <td><img src="/images/Balk.png"><br/><b>Meghan Balk, Ph.D.</b><br/>University of Arizona</td>
+    </tr>
   </tbody>
 </table>
 
