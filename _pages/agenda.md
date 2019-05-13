@@ -13,6 +13,8 @@ header:
 
 **Focus:** PEOPLE & COLLABORATION
 
+[Lemon Labs Notes](https://docs.google.com/document/d/1gaAHMV2_YZ2Ne_72y_GNGnblBJboRnbp0FmbJXlp9no/edit#)
+
 Time                | Activity
 ------------------- | -------------------
  7:30 am -  9:00 am | Breakfast served
