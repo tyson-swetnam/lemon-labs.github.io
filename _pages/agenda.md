@@ -9,11 +9,11 @@ header:
   overlay_image: /images/lemons.jpg
 ---
 
+[Directory for All Lemon Labs Notes](https://drive.google.com/drive/u/0/folders/1MExd3Z-A7Idc5prTJdZoWpWYqcdB0xS7)
+
 ### Day 1 (Monday May 13 2019)
 
-**Focus:** PEOPLE & COLLABORATION
-
-[Lemon Labs Notes](https://docs.google.com/document/d/1gaAHMV2_YZ2Ne_72y_GNGnblBJboRnbp0FmbJXlp9no/edit#)
+**Focus:** PEOPLE & COLLABORATION [Notes for 1st Day](https://docs.google.com/document/d/1gaAHMV2_YZ2Ne_72y_GNGnblBJboRnbp0FmbJXlp9no/edit#)
 
 Time                | Activity
 ------------------- | -------------------
