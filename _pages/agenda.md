@@ -97,7 +97,7 @@ Time                | Activity
  4:30 pm -  5:00 pm | End of the Day Summary
  6:30 pm -  8:00 pm | Group Dinner (El Charro, 7725 N Oracle Rd, AZ 85704)
 
-### Day 4 (Wednesday May 16 2019)
+### Day 4 (Thursday May 16 2019)
 
 **Participants depart**
 
