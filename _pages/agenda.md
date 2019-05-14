@@ -9,7 +9,7 @@ header:
   overlay_image: /images/lemons.jpg
 ---
 
-[Lemon Labs Public Folder](https://drive.google.com/drive/u/0/folders/1MExd3Z-A7Idc5prTJdZoWpWYqcdB0xS7), Lemon Labs Private Folder
+[Lemon Labs Public Folder](https://drive.google.com/drive/u/0/folders/1MExd3Z-A7Idc5prTJdZoWpWYqcdB0xS7), [Private Folder](https://drive.google.com/drive/u/1/folders/1WIseUrKIkE8WswssPAwtuKvZi8sksInt)
 
 ### Day 1 (Monday May 13 2019)
 
